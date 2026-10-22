@@ -17,8 +17,6 @@
   <img src="./assets/Tech_Fly_GIF.gif" width="164" alt="gif 2"/>
 </div>
 
----
-
 ## 🛠 `> tech_stack`
 
 <p align="left">
