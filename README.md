@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="cyber banner"/>
+<img src="https://media.giphy.com/media/3oEjHF6VkFM4uKeRDa/giphy.gif" width="400" alt="loading"/>
 
 ```
 ╔═══════════════════════════════════════════════╗
-║   > SASHA   //   STATUS: SEMI-LET'S GO ▮     ║
+║   > SASHA   //   STATUS: SEMI-LET'S GO ▮      ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -25,24 +25,20 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,postgres,docker,git&theme=dark" />
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l41m6XWcURxUcKLWE/giphy.gif" width="320"/>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/9YO1Zv9rPAGQg3bYLY/giphy.gif" width="320"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 `> sasha's_stats`
 
-<p align="left">
-  <img src="./assets/metrics.svg" alt="github metrics"/>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./assets/metrics.svg" alt="github metrics" width="540"/>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://media.giphy.com/media/l41m6XWcURxUcKLWE/giphy.gif" width="300" alt="neon window"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,20 +57,15 @@
 
 ## 📬 `> comms_channel`
 
-<table>
-  <tr>
-    <td>
-      <a href="https://t.me/al_p_s">
-        <img src="https://img.shields.io/badge/Telegram-@al__p__s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1033"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/3oEjHF6VkFM4uKeRDa/giphy.gif" width="200"/>
-    </td>
-  </tr>
-</table>
+<a href="https://t.me/al_p_s">
+  <img src="https://img.shields.io/badge/Telegram-@al__p__s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1033"/>
+</a>
+
+<br/><br/>
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="cyber banner"/>
 
 ```
 ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮
