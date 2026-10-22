@@ -34,11 +34,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg?v=2"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake.svg?v=2"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake.svg"/>
     <img alt="github-snake"
-       src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg?v=2"/>
+       src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
