@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oEjHF6VkFM4uKeRDa/giphy.gif" width="700" alt="loading"/>
-
 ### 👾 WHAT'S BUZZIN, I'M SASHA 👾
 
 </div>
 
 ```ansi
   software engineer (student)
-  can cook a bit code, or coke, or smth
+  silent crash
 ```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/9QBq5iaV6kB5m/giphy.gif" width="480" alt="gif 1"/>
+</div>
 
 ---
 
@@ -23,16 +25,10 @@
 
 ## 📊 `> sasha's_stats`
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./assets/metrics.svg" alt="github metrics" width="540"/>
-    </td>
-    <td valign="top" align="center">
-      <img src="https://media.giphy.com/media/l41m6XWcURxUcKLWE/giphy.gif" width="300" alt="neon window"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="languages"/>
+</p>
 
 ---
 
@@ -50,12 +46,12 @@
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="cyber banner"/>
-
+  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="49%" alt="gif 2"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxanJ1cGFpYTJtZHcwejM3bjJzbTR2eTJudGV5Y3h2MG9zdjM1ZyZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/9YO1Zv9rPAGQg3bYLY/giphy.gif" width="49%" alt="gif 3"/>
 </div>
 
 ## 📬 `> comms_channel`
+
 <a href="https://t.me/al_p_s">
   <img src="https://img.shields.io/badge/Telegram-@al__p__s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1033"/>
 </a>
