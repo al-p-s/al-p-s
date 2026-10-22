@@ -13,15 +13,11 @@
   <img src="./assets/Tech_Fly_GIF.gif" width="164" alt="gif 2"/>
 </div>
 
----
-
 <h2 align="center">🛠 <code>&gt; tech_stack</code></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,postgres,docker,git&theme=dark" />
 </p>
-
----
 
 <h2 align="center">📊 <code>&gt; sasha's_stats</code></h2>
 
@@ -29,8 +25,6 @@
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="languages"/>
 </p>
-
----
 
 <h2 align="center">🐍 <code>&gt; snake --eat contributions</code></h2>
 
@@ -44,8 +38,6 @@
          src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
-
----
 
 <h2 align="center">📬 <code>&gt; comms_channel</code></h2>
 
