@@ -26,7 +26,7 @@
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="languages"/>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="79%" alt="stats"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="60%" alt="stats"/>
 </p>
 
 <h2 align="center">🐍 <code>&gt; snake --eat contributions</code></h2>
