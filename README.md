@@ -22,11 +22,11 @@
 <h2 align="center">📊 <code>&gt; sasha's_stats</code></h2>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="stats"/>
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="languages"/>
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="45%" alt="stats"/>
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="45%" alt="languages"/>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="60%" alt="stats"/>
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="70%" alt="stats"/>
 </p>
 
 <h2 align="center">🐍 <code>&gt; snake --eat contributions</code></h2>
