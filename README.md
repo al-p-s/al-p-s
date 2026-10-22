@@ -34,12 +34,12 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg?v=2"/>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake.svg"/>
+          srcset="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake.svg?v=2"/>
     <img alt="github-snake"
-         src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+       src="https://raw.githubusercontent.com/al-p-s/al-p-s/output/github-contribution-grid-snake-dark.svg?v=2"/>
+</picture>
 </div>
 
 <h2 align="center">📬 <code>&gt; comms_channel</code></h2>
