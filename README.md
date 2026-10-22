@@ -10,11 +10,11 @@
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="160" alt="gif 3"/>
-  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="160" alt="gif 3"/>
+  <img src="./assets/Tech_Fly_GIF.gif" width="160" alt="gif 2"/>
+  <img src="./assets/Tech_Fly_GIF.gif" width="160" alt="gif 2"/>
   <img src="./assets/Heart_Love_GIF.gif" width="160" alt="gif 2"/>
-  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="160" alt="gif 3"/>
-  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="160" alt="gif 3"/>
+  <img src="./assets/Tech_Fly_GIF.gif" width="160" alt="gif 2"/>
+  <img src="./assets/Tech_Fly_GIF.gif" width="160" alt="gif 2"/>
 </div>
 
 ---
