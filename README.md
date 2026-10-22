@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oEjHF6VkFM4uKeRDa/giphy.gif" width="400" alt="loading"/>
+<img src="https://media.giphy.com/media/3oEjHF6VkFM4uKeRDa/giphy.gif" width="700" alt="loading"/>
 
-```
-╔═══════════════════════════════════════════════╗
-║   > SASHA   //   STATUS: SEMI-LET'S GO ▮      ║
-╚═══════════════════════════════════════════════╝
-```
-
-### 👾 what's buzzin, I'm Sasha 👾
+### 👾 WHAT'S BUZZIN, I'M SASHA 👾
 
 </div>
 
@@ -55,22 +49,13 @@
 
 ---
 
-## 📬 `> comms_channel`
-
-<a href="https://t.me/al_p_s">
-  <img src="https://img.shields.io/badge/Telegram-@al__p__s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1033"/>
-</a>
-
-<br/><br/>
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="cyber banner"/>
 
-```
-▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮
-  // end of transmission //
-▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮
-```
-
 </div>
+
+## 📬 `> comms_channel`
+<a href="https://t.me/al_p_s">
+  <img src="https://img.shields.io/badge/Telegram-@al__p__s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1033"/>
+</a>
