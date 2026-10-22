@@ -13,8 +13,8 @@
   <img src="./assets/Tech_Fly_GIF.gif" width="164" alt="gif 2"/>
   <img src="./assets/Tech_Fly_180.gif" width="164" alt="gif 2"/>
   <img src="./assets/Halloween_GIF.gif" width="164" alt="gif 2"/>
-  <img src="./assets/Tech_Fly_GIF.gif" width="164" alt="gif 2"/>
   <img src="./assets/Tech_Fly_180.gif" width="164" alt="gif 2"/>
+  <img src="./assets/Tech_Fly_GIF.gif" width="164" alt="gif 2"/>
 </div>
 
 ## 🛠 `> tech_stack`
