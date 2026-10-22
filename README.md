@@ -10,7 +10,7 @@
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9QBq5iaV6kB5m/giphy.gif" width="480" alt="gif 1"/>
+  <img src="https://media.giphy.com/media/9QBq5iaV6kB5m/giphy.gif" width="200" alt="gif 1"/>
 </div>
 
 ---
@@ -46,8 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="49%" alt="gif 2"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxanJ1cGFpYTJtZHcwejM3bjJzbTR2eTJudGV5Y3h2MG9zdjM1ZyZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/9YO1Zv9rPAGQg3bYLY/giphy.gif" width="49%" alt="gif 3"/>
+  <img src="https://media.giphy.com/media/9vJCmAR3mfKdJCeNHM/giphy.gif" width="200" alt="gif 2"/>
 </div>
 
 ## 📬 `> comms_channel`
